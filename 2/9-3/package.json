@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "exercise",
   "main": "index.js",
-  "author": "Denis",
+  "author": "Evgenii",
   "license": "MIT",
   "devDependencies": {
     "webpack": "^4.40.2",
